@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* justify-content: space-around; */
+}
+header{
+    display: flex;
+    height: 10vh;
+   padding: 10px;
+    align-items: center;
+    border: 2px solid black;
+    gap: 40px;
+    justify-content: space-around;
+}
+img{
+height: 5vh;
+
+}
+.item{
+    color: gray;
+    margin: 10px;
+    
+}

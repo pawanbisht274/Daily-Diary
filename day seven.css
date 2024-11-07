@@ -1,0 +1,15 @@
+h1{
+    background-color: thistle;
+    color: maroon;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border: 100px solid thistle;
+    text-align: center;
+}
+div{
+   font-size: 30px;
+   text-indent: 10px;
+   border: 10px solid thistle;
+  color: maroon;
+
+}

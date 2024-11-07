@@ -1,0 +1,8 @@
+table{
+    border-color: brown;
+    border-style: groove;
+}
+th,td{
+    border-style: groove;
+    border-color: rgb(72, 14, 247);
+}
